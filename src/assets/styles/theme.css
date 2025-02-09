@@ -1,0 +1,17 @@
+:root {
+  --font-family-primary: "Roboto", Arial, sans-serif;
+  --font-family-secondary: "Anton", Arial, sans-serif;
+
+  --breakpoint-sm: 640px;
+  --breakpoint-lg: 1024px;
+  --breakpoint-2xl: 1536px;
+
+  --color-black: #000;
+  --color-dark: #0B0B0B;
+  --color-gray: #292929;
+  --color-white: #fff;
+  --color-green: #C8FEC7;
+  --color-purple-light: #E9DFFC;
+  --color-purple-medium: #BE9FF6;
+  --color-purple-dark: #A87FF3;
+}

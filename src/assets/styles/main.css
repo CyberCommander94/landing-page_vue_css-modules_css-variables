@@ -1,0 +1,25 @@
+@import 'modern-normalize/modern-normalize.css';
+@import './fonts.css';
+@import './theme.css';
+
+html, body {
+  font-family: var(--font-family-primary);
+  font-weight: 400;
+  background-color: var(--color-black);
+  color: var(--color-white);
+  scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #686d76;
+  border-radius: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #373a40;
+}
